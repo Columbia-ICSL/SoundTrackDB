@@ -46,4 +46,14 @@ We also introduce **SoundTrack**, a **contactless mobile solution** that estimat
   </a>
 </p>
 
+## Citation
+
+If you use this dataset in your research, please cite the following paper:
+
+> Jingping Nie, Runxi Wan, and Xiaofan (Fred) Jiang.  
+> **"Non-Contact Audio-Based Running Metrics Detection Using Mobile Devices."**  
+> *Proceedings of the 5th ACM International Workshop on Intelligent Acoustic Systems and Applications (IASA’24),* 2024.  
+> DOI: [https://doi.org/10.1145/3729486](https://doi.org/10.1145/3729486)
+
+
 ---
